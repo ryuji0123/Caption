@@ -1,6 +1,6 @@
 # VIM (Varying Icon and Message)
 
-### Installation
+## Installation
 まずこのレポジトリをcloneします
 
 ```sh
@@ -24,7 +24,7 @@ linkから3種類のmodelファイルをdownloadし、以下のディレクト�
 | [encoder-2-1000.ckpt][encoder] | Caption/pytorch-tutorial/tutorials/03-advanced/image_captioning/models/encoder-2-1000.ckpt |
 | [decoder-2-1000.ckpt][decoder] | Caption/pytorch-tutorial/tutorials/03-advanced/image_captioning/models/decoder-2-1000.ckpt |
 
-# Execution
+## Execution
 以下のファイルをcolab上で開いてください。
 ```sh
 Caption/caption.ipynb
@@ -47,6 +47,9 @@ slackのuser token, user idについては以下のサイトを参考に確認�
 
 
 あとは実際に全てのセルを実行するだけです。コメントアウトはcleanな状態からの実行を想定して念の為残してありますが、無視してください。
+
+## Demo
+![result](https://github.com/ryuji0123/Caption/blob/master/media/demo.gif)
 
    [model]: <https://drive.google.com/file/d/11rwXicN6-0ttpM0LOHcLQGZTx4wMQ5pT/view?usp=sharing>
    [encoder]: <https://drive.google.com/file/d/1Ld8MKb4glgsNiqml-OcB1auquViCnwOq/view?usp=sharing>
